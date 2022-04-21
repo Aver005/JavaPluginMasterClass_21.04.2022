@@ -1,0 +1,4 @@
+name: MasterClass
+version: "0.1-Alpha"
+api-version: 1.18
+main: ru.masterclass.Main
